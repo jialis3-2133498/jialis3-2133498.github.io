@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(71, 18, 18);
+}
+
+h2{
+    width: 100%;
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+    background-color: blue;
+    text-align: center;
+}
+.form-horizontal{
+    width: 50%;
+    margin: auto;
+    font-size: 9px;
+    color: yellow;
+    background-color:black;
+    text-align: center;
+}
+.form-horizontal-1{
+    width: 50%;
+    color:tomato;
+    margin: auto;
+    font-size: 25px;
+    text-align: center;
+}
+.form-horizontal-2{
+    width: 58%;
+    color: purple;
+    margin: auto;
+    
+
+
+    font-size: 25px;
+}
+.form-horizontal-3{
+    width: 50%;
+    color: blue;
+    margin: auto;
+    font-size: 25px;
+}
+.btn{
+    font-size: 25px;
+    background-color:darkgray;
+}
+.btnclass{
+    margin:auto;
+    width: fit-content;
+}
